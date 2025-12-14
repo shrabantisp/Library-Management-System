@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Library Managment System</title>
+</head>
+<body>
+  <h1 style ="background-color:rgb(255, 99, 71);"><img src = "book-and-studen-logo-free-vector.jpg" width = "80" height ="80">
+  <small><small><small><small>Online Library Managment System</small></small></small></small>
+   <h1 align = "center" ><input type="submit" value="Home">
+      <input type="submit" value="User login">
+      <input type="submit" value="User signup" onclick="document.location='account.html'">
+      <input type="submit" value="Admin login" onclick="document.location='admin.html'">
+    </h1>
+</h1>
+<h2 align ="center"><img src="istockphoto-949118068-170667a.jpg" width = "500" height="300"></h2>
+<h1 align = "center" style ="background-color:rgb(205, 100, 71);"><small><small>User Login From</small></small></h1>
+	<h2 align = "center">
+		<form action="/action_page.php">
+  <label for="fname"><small><small><small>Username</small></small></small></label>
+  <input type="text" id="fname" name="fname" value=""><br>
+  <label for="lname"><small><small><small>Password</small></small></small></label>
+  <input type="text" id="lname" name="lname" value="">
+<p><small><small><small><input type="submit" value="Forgotten password"></small></small></small>
+   <span style="font-size: 60%; padding: 2px; background-color:#f0f0f0; border: 1px solid black;"> <a href="dashboard.html" style="text-decoration: none;">Log in</a> </span> </p>
+  <p> <span style="font-size: 60%; padding: 2px; background-color:#f0f0f0; border: 1px solid black;"> <a href="account.html" style="text-decoration: none;">Sign up</a> </span>
+  <small><small><small>| Don't have account</small></small></small></p>
+ </h2>
+</form>
+</body>
+</html>

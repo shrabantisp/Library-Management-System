@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<style>
+body {
+  background-image: url('create-account-web-button-editable-vector-illustration-isolated-white-background-create-account-button-122392383.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+<body>
+	<h1 style ="background-color:rgb(255, 99, 71);"><img src = "book-and-studen-logo-free-vector.jpg" width = "80" height ="80">
+  <small><small><small><small>Online Library Managment System</small></small></small></small>
+	<h1 align ="center">Creat Account</h1>
+	<h2 align = "center">
+		<form action="/action_page.php">
+  <label for="fname">First name</label>
+  <input type="text" id="fname" name="fname" value=""><br><br>
+  <label for="lname">Last name</label>
+  <input type="text" id="lname" name="lname" value=""><br><br>
+  <label for="lname">Email</label>
+  <input type="text" id="lname" name="lname" value=""><br><br>
+  <label for="lname">Date of birth</label>
+  <input type="text" id="lname" name="lname" value=""><br><br>
+  <label for="lname">Contact Number</label>
+  <input type="text" id="lname" name="lname" value=""><br><br>
+  <label for="lname">Gender</label>
+  <input type="text" id="lname" name="lname" value=""><br><br>
+   <input type="submit" value="Submit"></p><br>
+   
+ </h2>
+</body>
+</html>

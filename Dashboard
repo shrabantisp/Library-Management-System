@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Library Managment System</title>
+</head>
+<body>
+  <h1 style ="background-color:rgb(255, 99, 71);"><img src = "book-and-studen-logo-free-vector.jpg" width = "80" height ="80">
+  <small><small><small><small>Online Library Managment System</small></small></small></small>
+  <input type="submit" value="Log me out">
+   <h1 align = "center" ><input type="submit" value="Dashboard">
+      <input type="submit" value="Issued Books">
+      <input type="submit" value="Account">
+    </h1>
+</h1>
+<h1 style="border:1px solid skyblue;"><small><small><small>USER DASHBOARD</small></small></small></h1>
+<h1 align="center" style="border:1px solid skyblue;"> <img src="752px-Indian_Election_Symbol_Book.svg.png" width="200" height="200">Books Listed 8<br>
+
+<h1 align="center" style="border:1px solid skyblue;"> <img src="istockphoto-1472250940-612x612.jpg" width="200" height="200">Books not return yet 0<br>
+<h1 align="center" style="border:1px solid skyblue;"> <img src="752px-Indian_Election_Symbol_Book.svg.png" width="200" height="200">Issued book<br>
+
+	<h1>
+
+ </h2>
+</form>
+</body>
+</html>
